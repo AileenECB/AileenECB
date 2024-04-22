@@ -1,16 +1,14 @@
-### Hi there 👋
+# About me
+### School 🏫
+Swampscott HS: Class of 2024
 
-<!--
-**AileenECB/AileenECB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Work 💼
+Frozen Yogurt Store
 
-Here are some ideas to get you started:
+### Contact me 📞
+aileen.cornwall.brady@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ask me about 💕
+1791 Whiskey Rebellion 
+
+
